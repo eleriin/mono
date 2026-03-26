@@ -22,7 +22,7 @@ const PostCreate = () => {
                     <input
                         value={title}
                         onChange={onChange}
-                        classname="form-control"
+                        className="form-control"
                     />
                 </div>
                 <button className="btn btn-primary">Submit</button>
